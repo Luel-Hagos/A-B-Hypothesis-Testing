@@ -1,1 +1,1 @@
-# A-B-Hypothesis-Testing
+# A/B Hypothesis Testing.
